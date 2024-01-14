@@ -102,3 +102,19 @@ footer{
 .m-center{
   margin-left: 25%;
 }
+
+.game-container{
+  margin-top: 7rem;
+}
+
+@media (min-width: 992px) {
+  .game-container{
+  padding-left: 30rem;
+  padding-right: 30rem;
+  margin-top: 12rem;
+  }
+}
+
+.game-box{
+  cursor: pointer;
+}
